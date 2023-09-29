@@ -81,6 +81,6 @@ I welcome contributions from the Dart and Flutter community. If you have suggest
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources as you see fit.
+This repository is licensed under the [MIT License](LICENSE.md). Feel free to use the code and resources as you see fit.
 
 Thank you for joining me on my Dart and Flutter journey! Happy coding!
