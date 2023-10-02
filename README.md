@@ -3,7 +3,7 @@
 Welcome to my Dart and Flutter learning journey repository! Here, you'll find a collection of my experiences, projects, and progress as I explore the world of Dart and Flutter. Whether you're a fellow learner or just curious about my journey, feel free to explore the contents of this repository.
 
 ### Learning Status
-	🍎  lvl ⇒  Novice Flutter Dev
+	🍎  lvl ⇒  Novice Flutter Dev || 🐢 lvl ⇒ Jr. Dart Dev
 
 
 ## Table of Contents
@@ -32,14 +32,14 @@ My Dart and Flutter journey is a continuous learning process. I'm taking the fol
 - **Open Source Contributions**: I plan to contribute to open-source Dart and Flutter projects to gain practical experience and give back to the community.
 
 ## Code Challenges
-- ### Challenge#1: [TXTCreator](./TXTCreator.dart)
-- ### Challenge#2: [BackEnd Dart](#)
+- ### Challenge#1: [TXTCreator](./TXTCreator.dart) ✅
+- ### Challenge#2: [BackEnd Dart](#) 🚧
 
 ## Projects
 
 In this repository, you'll find a collection of Dart and Flutter projects I've worked on. These projects range from simple apps to more complex applications. Each project comes with its own README and source code for you to explore.
 
-- ###  [Project 1](#): **To Do App / Task Manager**
+- ###  [Project 1](#): **To Do App / Task Manager** 🕗
 **Explanation:** Build a task manager app that allows users to add, edit, and delete tasks. Implement features like task prioritization, due dates, and task categories. Use local storage or databases for persistent data storage.
 
  **Technicalities Involved:**
@@ -48,7 +48,7 @@ In this repository, you'll find a collection of Dart and Flutter projects I've w
 	 - Handling user input for adding, editing, and deleting tasks. 
 	 - Utilizing local storage or databases to store task data securely.
 
- - ### [Project 2](#): **Weather Forecast App**
+ - ### [Project 2](#): **Weather Forecast App** 🕗
  **Explanation:** Create an app that fetches weather data from a weather API and displays current conditions, hourly forecasts, and weekly forecasts in an appealing user interface. Implement location services to provide weather based on the user’s location.
 
  **Technicalities Involved:**
@@ -57,7 +57,7 @@ In this repository, you'll find a collection of Dart and Flutter projects I've w
 	- Parsing JSON or XML responses from the API to extract weather information.
 	- Using location services to determine the user’s geographical coordinates.
 
- -  ### [Project 3](#): **Expense Tracker App**
+ -  ### [Project 3](#): **Expense Tracker App** 🕗
 
 **Explanation:** Develop an expense tracker that enables users to log and categorize their expenses. Implement graphical representation of spending patterns over time using charts or graphs.
 
