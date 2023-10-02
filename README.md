@@ -10,6 +10,7 @@ Welcome to my Dart and Flutter learning journey repository! Here, you'll find a 
 
 - [Introduction](#introduction)
 - [My Learning Path](#my-learning-path)
+- [Code Challenges](#Code-Challenges)
 - [Projects](#projects)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -30,7 +31,7 @@ My Dart and Flutter journey is a continuous learning process. I'm taking the fol
 
 - **Open Source Contributions**: I plan to contribute to open-source Dart and Flutter projects to gain practical experience and give back to the community.
 
-##Code Challenges
+## Code Challenges
 - ### Challenge#1: [TXTCreator](./TXTCreator.dart)
 - ### Challenge#2: [BackEnd Dart](#)
 
